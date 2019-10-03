@@ -1,0 +1,3 @@
+This folder contains the code files as well as screenshots and the presentation PDF. There are two Python files. One contains Twitter credentials. The other contains the code for the bot. To run the bot, simply use the command python soul_snapshot.py
+
+Once you run the bot, you can start giving it tweets from another account. Just mention it, @Soul_Snapshot, in your tweet. The bot works by checking if anyone mentions it and then sleeps for some time and then checks again. This is used to comply with Twitter's rate limit. A shorter wait time can be set temporarily for ease of testing. 
